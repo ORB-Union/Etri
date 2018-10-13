@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom UI 제작.Editor", "Custom UI 제작.Editor.csproj", "{F91779AA-38A3-5D6E-6836-5085B086189A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91779AA-38A3-5D6E-6836-5085B086189A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91779AA-38A3-5D6E-6836-5085B086189A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91779AA-38A3-5D6E-6836-5085B086189A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91779AA-38A3-5D6E-6836-5085B086189A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
